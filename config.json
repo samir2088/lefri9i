@@ -1,1 +1,16 @@
+[{
+		"title": "ملخّصات و أهداف",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [
 
+			{
+				"title": "الهدف",
+				"provider": "youtube",
+				"arguments": [
+					"UCPHd5F0xqoyQxhV67PORKJw",
+					"channel"
+
+				]
+			}, 
