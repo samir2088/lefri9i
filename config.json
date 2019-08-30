@@ -14,3 +14,30 @@
 
 				]
 			}, 
+				{
+				"title": "المحترفين المصريين",
+				"provider": "youtube",
+				"arguments": [
+					"UCHEIO-7w6vgPHU2pTXP9rkA",
+					"channel"
+
+				]
+			}
+
+		]
+	},
+ 
+  {
+		"title": "A propos",
+		"drawable": "",
+		"submenu": "autres",
+		"iap": false,
+		"tabs": [{
+			"title": "",
+			"provider": "custom",
+			"arguments": [
+				"com.knoooz.ifriki.SettingsFragment", "fragment"
+			]
+		}]
+	}
+]
