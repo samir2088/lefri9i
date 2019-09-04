@@ -191,16 +191,16 @@
 		}]
 	},
  {
-   "title":"الموقع الرسمي",
+   "title":"Facebook",
     "drawable":"",
-    "submenu":"رابطة أحباء النادي الافريقي",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
         "title":"WebView",
           "provider":"webview",
         "arguments":[
-          "http://www.ligueclubiste.com"
+          "https://www.facebook.com/clubafricain.com.tn/"
         ]
       }
 	    
@@ -208,16 +208,16 @@
 
   },
  {
-   "title":"الرئيسية",
+   "title":"Instagram",
     "drawable":"",
-    "submenu":"كرة القدم التونسية",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
         "title":"WebView",
           "provider":"webview",
         "arguments":[
-          "http://www.ligueclubiste.com"
+          "https://www.instagram.com/clubafricain__officiel/?hl=fr"
         ]
       }
 	    
