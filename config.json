@@ -6,15 +6,6 @@
 		"tabs": [
 
 			{
-				"title": "الهدف",
-				"provider": "youtube",
-				"arguments": [
-					"UCPHd5F0xqoyQxhV67PORKJw",
-					"channel"
-
-				]
-			}, 
-			{
 				"title": "Club Africain",
 				"provider": "youtube",
 				"arguments": [
@@ -118,14 +109,14 @@
 				]
 			},
 				{
-				"title": "المحترفين المصريين",
+				"title": "الهدف",
 				"provider": "youtube",
 				"arguments": [
-					"UCHEIO-7w6vgPHU2pTXP9rkA",
+					"UCPHd5F0xqoyQxhV67PORKJw",
 					"channel"
 
 				]
-			},
+			}, 
 				{
 				"title": "المحترفين المصريين",
 				"provider": "youtube",
