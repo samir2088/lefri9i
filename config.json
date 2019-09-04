@@ -200,7 +200,24 @@
         "title":"WebView",
           "provider":"webview",
         "arguments":[
-          "http://www.ligueclubiste.com/sitear/"
+          "http://www.ligueclubiste.com"
+        ]
+      }
+	    
+    ]
+
+  },
+ {
+   "title":"الرئيسية",
+    "drawable":"",
+    "submenu":"كرة القدم التونسية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com"
         ]
       }
 	    
