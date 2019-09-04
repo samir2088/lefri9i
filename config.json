@@ -307,38 +307,7 @@
 			]
 		}]
 	},
-  {
-   "title":"الشروق",
-    "drawable":"",
-    "submenu":"جرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.alchourouk.com"
-        ]
-      }
-    ]
-
-  },
-	{
-   "title":"المصدر",
-    "drawable":"",
-    "submenu":"جرائد",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://ar.webmanagercenter.com/"
-        ]
-      }
-    ]
-
-  },
+  
   {
      "title":" إعادات REPLAYS",
     "drawable":"",
@@ -488,6 +457,38 @@
 	    ]
 		}
 	,
+ {
+   "title":"الشروق",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.alchourouk.com"
+        ]
+      }
+    ]
+
+  },
+	{
+   "title":"المصدر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://ar.webmanagercenter.com/"
+        ]
+      }
+    ]
+
+  },
 	
 	{
    "title":"اخر خبر",
