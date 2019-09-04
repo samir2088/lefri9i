@@ -109,6 +109,33 @@
 				]
 			},
 				{
+				"title": "Fédération Tunisienne",
+				"provider": "youtube",
+				"arguments": [
+					"UCgcFZxGk-zLhkT5a_qPz3PA",
+					"channel"
+
+				]
+			},
+				{
+				"title": "شجع كورة",
+				"provider": "youtube",
+				"arguments": [
+					"UCGfR4jvwHxWE3S3D2W_TFwA",
+					"channel"
+
+				]
+			},
+				{
+				"title": "الهدف",
+				"provider": "youtube",
+				"arguments": [
+					"UCPHd5F0xqoyQxhV67PORKJw",
+					"channel"
+
+				]
+			},
+				{
 				"title": "الهدف",
 				"provider": "youtube",
 				"arguments": [
