@@ -190,6 +190,210 @@
 			]
 		}]
 	},
+ {
+   "title":"الموقع الرسمي",
+    "drawable":"",
+    "submenu":"رابطة أحباء النادي الافريقي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/"
+        ]
+      }
+	    
+    ]
+
+  },
+  {
+   "title":"الشروق",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.alchourouk.com"
+        ]
+      }
+    ]
+
+  },
+	{
+   "title":"المصدر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://ar.webmanagercenter.com/"
+        ]
+      }
+    ]
+
+  },
+	
+	{
+   "title":"اخر خبر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.akherkhabaronline.com/ar/1/actualites/%D9%88%D8%B7%D9%86%D9%8A%D8%A9"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"الصباح",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.assabahnews.tn/rss-feed"
+        ]
+      }
+	    
+    ]
+
+  },
+			{
+   "title":"Tunisie Numérique",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.tunisienumerique.com/actualite-tunisie/politique/"
+        ]
+      }
+	    
+    ]
+
+  },
+			{
+   "title":"Business News",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.businessnews.com.tn/"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"Leaders",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.leaders.com.tn/contentTopic"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Realites",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.realites.com.tn/category/news/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Huffpost Maghreb",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.huffpostmaghreb.com/tunisie/"
+        ]
+      }
+	    
+    ]
+
+  },
+	
+		{
+   "title":"أخبار النجم الساحلي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://kora.com/tunisia/etoile-du-sahel/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"أخبار  النادي الصفاقسي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.sfaxien.net/search/label/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%20%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D9%82%D8%B3%D9%8A"
+        ]
+      }
+	    
+    ]
+
+  },
  
   {
 		"title": "A propos",
