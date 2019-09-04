@@ -172,7 +172,7 @@
  {
 		"title": "رابط 2 مباشر",
 		"drawable": "",
-		"submenu": " ",
+		"submenu": "الرّجاء تشغيلRotation auto لكي لا يحصل خلل للتطبيق عند مشاهدة المباريات",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
